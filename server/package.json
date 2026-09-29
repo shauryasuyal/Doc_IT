@@ -1,0 +1,19 @@
+{
+  "name": "doc-it-server",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "main": "main.py",
+  "scripts": {
+    "dev": "python -m uvicorn main:app --reload --port 8000",
+    "start": "python -m uvicorn main:app --host 0.0.0.0 --port 8000",
+    "dev:node": "node --watch src/index.js",
+    "start:node": "node src/index.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "pg": "^8.11.0",
+    "fastify": "^4.26.0",
+    "@fastify/cors": "^9.0.0"
+  }
+}

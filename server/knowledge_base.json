@@ -1,0 +1,190 @@
+{
+  "bonafide_certificate": {
+    "display_name": "Bonafide Certificate",
+    "description": "Certificate verifying current student enrollment at DTU.",
+    "fee": "Free (No fee)",
+    "required_documents": [
+      "Completed Bonafide Application Form (Common Application Form)",
+      "Photocopy of Student ID Card"
+    ],
+    "department": "Academic Section",
+    "processing_time": "2 working days",
+    "notes": "Specify reason (scholarship, visa, or internship) in the form."
+  },
+  "transcript_request": {
+    "display_name": "Official Academic Transcripts",
+    "description": "Official signed transcripts for higher education or employment verification.",
+    "fee": "₹500 per official set (Payable via Bank Challan at SBI DTU Branch)",
+    "required_documents": [
+      "Transcript Request Form",
+      "Photocopies of all semester grade cards",
+      "Payment receipt (DTU Bank Challan stamped copy)"
+    ],
+    "department": "Examination Branch",
+    "processing_time": "5-7 working days",
+    "notes": "Direct overseas university dispatch available with postal envelope details."
+  },
+  "duplicate_id_card": {
+    "display_name": "Duplicate Student ID Card",
+    "description": "Reissue of lost, damaged, or stolen DTU Student ID card.",
+    "fee": "₹500 (Payable via DTU Bank Challan at SBI DTU Branch)",
+    "required_documents": [
+      "ID Card Reissue Application Form (Common Application Form)",
+      "Delhi Police Online Lost Report (e-FIR/NCR receipt)",
+      "Fee payment receipt (₹500 stamped SBI Bank Challan)"
+    ],
+    "department": "Student Affairs",
+    "processing_time": "3 working days",
+    "notes": "File free online police report at https://lostfound.delhipolice.gov.in/ (No police station visit needed). Fee is strictly ₹500."
+  },
+  "fee_slip_request": {
+    "display_name": "Fee Slip Generation",
+    "description": "Official receipt of semester academic fee payment.",
+    "fee": "Free (No fee)",
+    "required_documents": [
+      "Student Roll / ID Number",
+      "Semester and academic year details"
+    ],
+    "department": "Accounts Section",
+    "processing_time": "1 working day",
+    "notes": "Also directly downloadable from the DTU ERP Portal under Fee History."
+  },
+  "hostel_admission": {
+    "display_name": "Hostel Accommodation Request",
+    "description": "Semester allotment for university residential hostels.",
+    "fee": "Hostel fee as per semester allotment notification",
+    "required_documents": [
+      "Hostel Admission / Registration Form",
+      "Fee payment receipt",
+      "Photocopy of Student ID Card",
+      "Anti-ragging affidavit"
+    ],
+    "department": "Hostel Office",
+    "processing_time": "3-5 working days",
+    "notes": "Allotment strictly as per distance & merit list."
+  },
+  "hostel_leave": {
+    "display_name": "Hostel Leave Application",
+    "description": "Permission for night-out or extended leave from hostel premises.",
+    "fee": "Free (No fee)",
+    "required_documents": [
+      "Student Leave Application Form",
+      "Parent consent message/letter (if under 21)"
+    ],
+    "department": "Hostel Warden's Office",
+    "processing_time": "1 working day",
+    "notes": "Leave exceeding 7 days requires DSW endorsement."
+  },
+  "degree_certificate": {
+    "display_name": "Original Degree Certificate",
+    "description": "Final convocation degree certificate upon course completion.",
+    "fee": "₹1,000 (Only if applying for duplicate/special issuance; regular convocation degree is free after dues clearance)",
+    "required_documents": [
+      "Common Application Form",
+      "No Dues Clearance Certificate",
+      "Copy of Provisional Degree Certificate",
+      "Payment receipt (if applicable)"
+    ],
+    "department": "Examination Branch",
+    "processing_time": "10-12 working days",
+    "notes": "Issued only after complete university No Dues clearance."
+  },
+  "provisional_certificate": {
+    "display_name": "Provisional Degree Certificate",
+    "description": "Interim certificate issued prior to the annual convocation.",
+    "fee": "Free (Included in final semester fees)",
+    "required_documents": [
+      "Common Application Form",
+      "Copy of final semester marksheet",
+      "No Dues Clearance Form"
+    ],
+    "department": "Examination Branch",
+    "processing_time": "3 working days",
+    "notes": "Valid until the official degree is conferred."
+  },
+  "library_clearance": {
+    "display_name": "Library Clearance / No Dues",
+    "description": "Clearance certificate confirming all books and fines are settled.",
+    "fee": "Free (Clear outstanding book fines, if any)",
+    "required_documents": [
+      "No Dues Clearance Form",
+      "DTU Library ID Card"
+    ],
+    "department": "Central Library",
+    "processing_time": "1 working day",
+    "notes": "All borrowed books must be physically returned prior to stamp."
+  },
+  "internship_letter": {
+    "display_name": "Internship NOC / Approval Letter",
+    "description": "No Objection Certificate for attending summer/semester internships.",
+    "fee": "Free (No fee)",
+    "required_documents": [
+      "Common Application Form",
+      "Offer letter from the hiring organization",
+      "Department HOD recommendation"
+    ],
+    "department": "Training and Placement Cell (T&P)",
+    "processing_time": "2-3 working days",
+    "notes": "Mandatory for academic credit or internships exceeding 4 weeks."
+  },
+  "meeting_with_dean": {
+    "display_name": "Meeting Request with Dean / HOD",
+    "description": "Formal appointment request for academic grievance or administrative meeting.",
+    "fee": "Free (No fee)",
+    "required_documents": [
+      "Common Application Form / Written application stating purpose",
+      "Student ID Card copy"
+    ],
+    "department": "Dean's Office",
+    "processing_time": "Subject to administrative availability",
+    "notes": "Confirmation slot will be notified via email."
+  },
+  "grade_improvement": {
+    "display_name": "Re-evaluation & Grade Improvement",
+    "description": "Application for marks re-checking or re-evaluation of answer scripts.",
+    "fee": "₹1,000 per subject/paper (Payable via DTU Bank Challan)",
+    "required_documents": [
+      "Common Application Form (Re-evaluation)",
+      "Copy of semester grade card",
+      "Bank payment receipt (₹1,000 per paper)"
+    ],
+    "department": "Examination Branch",
+    "processing_time": "5-10 working days",
+    "notes": "Must apply within 15 days of result declaration. Results are final."
+  },
+  "address_proof_request": {
+    "display_name": "Official Address Proof Certificate",
+    "description": "Official institutional residence verification for passport, bank, or visa.",
+    "fee": "Free (No fee)",
+    "required_documents": [
+      "Common Application Form",
+      "Hostel fee receipt",
+      "Student ID Card copy"
+    ],
+    "department": "Student Affairs",
+    "processing_time": "2 working days",
+    "notes": "Available exclusively to resident students residing in DTU hostels."
+  },
+  "official_leave_application": {
+    "display_name": "Official Duty Leave (OD)",
+    "description": "Attendance exemption when representing DTU in hackathons, sports, or conferences.",
+    "fee": "Free (No fee)",
+    "required_documents": [
+      "Student Leave Application Form",
+      "Official invitation letter / event registration proof",
+      "Faculty mentor / Society Advisor recommendation"
+    ],
+    "department": "Dean of Student Welfare (DSW)",
+    "processing_time": "2-3 working days",
+    "notes": "Must be submitted at least 3 days prior to the event."
+  },
+  "unknown_intent": {
+    "display_name": "Administrative Inquiry",
+    "description": "Inquiry requiring general routing or manual helpdesk resolution.",
+    "fee": "N/A",
+    "required_documents": [],
+    "department": "Student Helpdesk",
+    "processing_time": "N/A",
+    "notes": "Forwarded to the relevant department helpdesk."
+  }
+}
