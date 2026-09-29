@@ -1,0 +1,20 @@
+{
+  "projectName": "doc-it",
+  "teamName": "dhu-render",
+  "tagline": "AI-Powered Administrative & Document Assistant for DTU Students",
+  "teamMembers": [
+    "Vidit",
+    "Shaurya",
+    "Apoorva",
+    "Pranav"
+  ],
+  "problemStatement": "Making students lives easier at DTU by automating paperwork, appointment scheduling, document verification, and administrative routing.",
+  "frontend": "React (Vite)",
+  "backend": "FastAPI (Python)",
+  "database": "PostgreSQL",
+  "authentication": "None",
+  "addons": [
+    "Docker setup"
+  ],
+  "installDeps": true
+}
